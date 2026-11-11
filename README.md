@@ -27,14 +27,14 @@
 ## 安装
 
 ```bash
-git clone https://github.com/zhao007577/michael-damaige-combined-skill.git \
+git clone https://github.com/zhao007577/github-program.git \
   "${CODEX_HOME:-$HOME/.codex}/skills/michael-damaige-combined"
 ```
 
 Windows PowerShell：
 
 ```powershell
-git clone https://github.com/zhao007577/michael-damaige-combined-skill.git "$HOME\.codex\skills\michael-damaige-combined"
+git clone https://github.com/zhao007577/github-program.git "$HOME\.codex\skills\michael-damaige-combined"
 ```
 
 开启新会话后即可使用 `$michael-damaige-combined`。
