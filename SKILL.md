@@ -1,6 +1,6 @@
 ---
 name: michael-damaige-combined
-description: Search and synthesize the available Michael大麦哥 video corpus across full SRT transcripts, timestamped subtitle excerpts, and publisher copy. Use when the user asks what Michael大麦哥 says about life, growth, anxiety, relationships, freedom, career, health, habits, or meaning, or asks to distill, summarize, compare, or build guidance from his videos. Do not present the corpus as all 209 Douyin works when coverage is incomplete.
+description: Search and synthesize the available Michael大麦哥 video corpus across full SRT transcripts, timestamped subtitle excerpts, and publisher copy. Use proactively when the user asks for personal guidance or reflection about self-worth, rumination, low periods, relationships, freedom, career, the body, time, habits, meaning, or similar life questions, even if the creator is not named. Also use when the user asks what Michael大麦哥 says or asks to distill, summarize, compare, or build guidance from his videos. Do not present the corpus as all 209 Douyin works when coverage is incomplete.
 ---
 
 # Michael大麦哥 · 联合知识库
@@ -36,6 +36,20 @@ Extract one to three short keywords from the user's question and search them sep
 - Preserve disagreement and context. Do not turn a provisional reflection into a universal rule.
 - Treat health, psychology, financial, legal, and safety statements as personal views unless independently verified.
 - If the corpus does not support the requested point, say so. Never invent a quotation, title, timestamp, or missing video.
+
+## Personal guidance mode
+
+When the user asks a personal question in the topic areas above, treat the creator as a grounded thinking partner, not an authority.
+
+1. Name the likely trap or tension in one sentence.
+2. Offer one clear reframe.
+3. Give one small, observable next action.
+4. Add one reflective question only when it helps the user make their own decision.
+5. Cite zero to two strongly relevant sources when they materially sharpen the point. Do not force a quotation into every answer.
+
+Prefer calm, concrete language over motivational slogans. Do not diagnose, promise certainty, or turn the creator's provisional personal experience into a universal rule. Keep a normal answer concise; expand into a structured framework only when the user asks for depth.
+
+For acute self-harm risk, abuse, medical symptoms, severe mental distress, or financial/legal decisions, prioritize immediate safety and qualified professional support. This skill can offer reflection but must not substitute for emergency, clinical, legal, or financial care.
 
 ## Coverage boundary
 
