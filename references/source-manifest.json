@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-12",
+  "target": {
+    "creator": "Michael大麦哥",
+    "douyin_id": "104274995",
+    "profile_works": 209,
+    "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAWyj6c_4HBQvpfps4IGdAeXva2kW0I_cjzS-RALo7EW8"
+  },
+  "sources": [
+    {
+      "repository": "feiyuaq/michael-damaige-skill",
+      "commit": "f5d528b861b85ba181bb83ceb406249217f60c6d",
+      "coverage": "19 full-transcript videos",
+      "subtitle_cues": 11428,
+      "code_license": "MIT",
+      "content_rights": "Subtitle text is excluded from the repository's MIT grant."
+    },
+    {
+      "repository": "wangjs-jacky/michael-damaige-gallery",
+      "commit": "d06e586e432049259f58e1e3d75d97a2ed7a864b",
+      "coverage": "121 Bilibili videos with 382 timestamped excerpts",
+      "code_license": "No explicit license",
+      "content_rights": "No third-party content license; original creators retain rights."
+    },
+    {
+      "repository": "qwer3021/douyin-Michael-DaMaiGe-skill",
+      "commit": "9e710df1812ebd28da566e94697dfcb381eba60f",
+      "coverage": "39 Douyin posts with publisher copy and metadata",
+      "code_license": "No license file",
+      "content_rights": "Original creators retain rights; keep use personal."
+    }
+  ],
+  "combined": {
+    "source_rows": 179,
+    "unique_long_form_titles_after_normalization": 135,
+    "full_profile_transcribed": false,
+    "third_party_content_bundled": false
+  }
+}
